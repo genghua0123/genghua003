@@ -5,6 +5,10 @@
 推送到远程仓库：git pushZZktop/zhangsan/test007
 编辑代码：num1 = 10
 本地仓库记录版本：git commit -am '第一个变量'
+fadhfkalsdhkalf
+dahsflkjasdf
+dflajdfas
+ajksdfas
 推送到远程仓库：git pus
 要使用git命令操作仓库，需要进入到仓库内部
 要同步服务器代码就执行：git pull
