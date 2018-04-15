@@ -3,6 +3,8 @@ ktop/zhangsan/test007
 本地仓库记录版本：git commit -am '第一个变量'
 推送到远程仓库：git pus
 要使用git命令操作仓库，需要进入到仓库内部
+adfhalisdhfahsjdhfakjs
+sdbfasdhflakd
 要同步服务器代码就执行：git pull
 进入经理本地仓库：cd Desktop/manager/test007/
 经理同步服务器代码：git pull
